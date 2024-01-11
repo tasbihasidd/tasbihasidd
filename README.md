@@ -2,8 +2,7 @@
 - 👀 I’m interested in software development, machine learning, and open-source projects.
 - 🌱 I’m currently learning data science and exploring new technologies.
 - 💞️ I’m looking to collaborate on innovative projects that make a positive impact.
-- 📫 How to reach me : [tasbihaasiddiqui4@gmail.com],[www.linkedin.com/in/
-tasbiha-siddiqui-1b39b022a]
+- 📫 How to reach me : [tasbihaasiddiqui4@gmail.com],[www.linkedin.com/in/tasbiha-siddiqui-1b39b022a]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coding while sipping on a cup of chai ☕
 
